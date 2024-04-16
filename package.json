@@ -1,0 +1,22 @@
+{
+    "scripts": {
+        "start": "webpack serve --open"
+    },
+    "name": "cu-ui",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/CUjamin/cu-ui.git",
+    "author": "车奔 <chbnjamin@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+        "@types/react": "^18.2.77",
+        "@types/react-dom": "^18.2.25",
+        "node-sass": "^9.0.0",
+        "sass-loader": "^14.2.0",
+        "typescript": "^5.4.5"
+    }
+}
